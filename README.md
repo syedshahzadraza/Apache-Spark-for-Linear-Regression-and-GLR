@@ -105,8 +105,6 @@ For convenience, the four holidays fall within the following weeks in the datase
 - Thanksgiving: 26-Nov-10, 25-Nov-11, 23-Nov-12, 29-Nov-13
 - Christmas: 31-Dec-10, 30-Dec-11, 28-Dec-12, 27-Dec-13
 
-*Source: https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/overview*
-
 ## Model Definition
 We will evaluate the performance of two machine learning models.
 * Linear Regression
