@@ -1,3 +1,5 @@
+![Banner](Banner.png "RazaAnalytics.com - @author: Syed Shahzad Raza")
+
 # Project: Walmart Sales Forecasting
 
 @author: Syed Shahzad Raza
