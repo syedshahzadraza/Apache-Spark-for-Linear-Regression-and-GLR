@@ -1,5 +1,4 @@
-[![Raza Analytics](https://razaanalytics.com/images/razaanalytics_banner.png "Raza Analytics")](https://www.razaanalytics.com "Raza Analytics")
-[![Syed Shahzad Raza](https://razaanalytics.com/images/personal_banner.png "Syed Shahzad Raza")](https://www.linkedin.com/in/syed-shahzad-raza/ "Syed Shahzad Raza")
+[![Raza Analytics](https://razaanalytics.com/images/banner.png "Raza Analytics")](https://www.razaanalytics.com "Raza Analytics")
 
 # Project: Walmart Sales Forecasting
 
