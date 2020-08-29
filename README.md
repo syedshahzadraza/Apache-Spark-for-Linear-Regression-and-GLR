@@ -1,4 +1,4 @@
-[![Raza Analytics](https://razaanalytics.com/images/banner.png "Raza Analytics")](https://www.razaanalytics.com "Raza Analytics")
+[![Raza Analytics](https://sigma.stream/images/banner.png "Raza Analytics")](https://www.razaanalytics.com "Raza Analytics")
 
 # Project: Walmart Sales Forecasting
 
